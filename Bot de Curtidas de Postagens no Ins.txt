@@ -1,0 +1,9 @@
+Bot de Curtidas de Postagens no Instagram
+
+1- Entrar no site
+2- Clicar e Digitar meu usuário
+3- Clicar e Digitar minha senha
+4- Clicar no campo entrar
+5- Navegar até a página alvo
+6- Clicar na última postagem
+7- Verificar se postagem foi curtida, caso não tenha sido, clicar em curtir, caso já tenha sido, aguardar 24h
